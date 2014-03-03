@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HL7 Viewer</title>
+    <link rel="stylesheet" href="../css/main.css" />
+    <link rel="stylesheet" href="../codemirror/lib/codemirror.css" />
+    <link rel="stylesheet" href="../codemirror/theme/midnight.css" />
+    <script type="text/javascript" src="../codemirror/lib/codemirror.js"></script>
+    <script type="text/javascript" src="../js/hl7mode.js"></script>
+    <script type="text/javascript" src="../js/main.js"></script>
+</head>
+<body>
+    <input id="open" type="file" style="display:none" accept="text/*"/>
+    <input id="save" type="file" nwsaveas style="display:none" accept="text/*"/>
+
+    <table>
+        <tr>
+            <td style="width: 50%">
+                <div id="editorContainer" style="position:fixed;top:0;bottom:0;left:0;right:0; background-color: black"></div>
+            </td>
+            <td style="width: 50%">
+                <div style="background-color: black;">
+                </div>
+            </td>
+        </tr>
+    </table>
+
+</body>
+
+</html>

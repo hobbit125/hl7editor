@@ -1,0 +1,221 @@
+MSH|^~\&|MACLAB 6.5|GEMS|RECVAPP-CATH|RECVFAC-CATH|20131210125328||ORU^R01|CATH_20131210125328|D|2.3|||||||1033||
+PID|||03328604||ACEVEDO^CARMEN^||19420827^71.34^Years|F||Hispanic|^^^^^|||||||0760421382|||||||||||||
+OBR|1||462e6732-cb5a-4c32-93b2-eb914e8a78c6|^Patient Demographics^-1^^^|||20131210112316|20131210124504||||||||||001LPPLBL||||||CTH|F|||||||^^^^||||||||||||||
+OBX|1|ST|PT-HT-CM||150.00|Cm|||||F|||20131210112316||||
+OBX|2|ST|PT-WT-KG||65.80|Kg|||||F|||20131210112316||||
+OBX|3|ST|PT-BSA||1.61|m2|||||F|||20131210112316||||
+OBX|4|ST|PT-SEX||F||||||F|||20131210112316||||
+OBX|5|ST|PT-AGE||71.34|Years|||||F|||20131210112316||||
+OBR|2||462e6732-cb5a-4c32-93b2-eb914e8a78c6|^Case Demographics^-1^^^|||20131210112316|20131210124504||||||||||001LPPLBL||||||CTH|F|||||||^^^^||||||||||||||
+OBX|1|ST|STUDYUID||462e6732-cb5a-4c32-93b2-eb914e8a78c6||||||F|||20131210112316||||
+OBX|2|ST|HOSPINFO-NAME||Bronx Lebanon Hospital Center||||||F|||20131210112316||||
+OBX|3|ST|HOSPINFO-LOC||Cardiac Cath Lab on the 3rd Floor||||||F|||20131210112316||||
+OBX|4|ST|HOSPINFO-ADDR||1650 Grand Concourse||||||F|||20131210112316||||
+OBX|5|ST|HOSPINFO-CITY||Bronx||||||F|||20131210112316||||
+OBX|6|ST|HOSPINFO-ST||New York||||||F|||20131210112316||||
+OBX|7|ST|HOSPINFO-ZIP||10457||||||F|||20131210112316||||
+OBX|8|ST|HOSPINFO-CNTRY||US||||||F|||20131210112316||||
+OBX|9|ST|TIME-CASESTART||||||||F|||20131210112316||||
+OBX|10|ST|TIME-CASEEND||||||||F|||20131210124504||||
+OBX|11|ST|TIME-PTARRIVES||||||||F|||||||
+OBX|12|ST|TIME-PTONTABLE||||||||F|||||||
+OBX|13|ST|TIME-PTSENTTO||||||||F|||||||
+OBX|14|ST|TIME-MDCALLED||||||||F|||||||
+OBX|15|ST|TIME-MDARRIVE||||||||F|||||||
+OBX|16|ST|STUDYBINLOC||||||||F|||20131210112316||||
+OBX|17|ST|STUDYNUM||001LPPLBL||||||F|||20131210112316||||
+OBX|18|ST|CVIS-MODE||1||||||F|||20131210112316||||
+OBR|3||462e6732-cb5a-4c32-93b2-eb914e8a78c6|^Event Log^-1^^^|||20131210112316|20131210124504||||||||||001LPPLBL||||||CTH|F|||||||^^^^||||||||||||||
+OBX|1|ST|EVENT||Phase: Baseline||||||F|||20131210112331||||
+OBX|2|ST|EVENT||Risk Factors for Cath: DM II, HTN, Hypercholesterol||||||F|||20131210112426||||
+OBX|3|ST|EVENT||Indications For Cath: +NST||||||F|||20131210112426||||
+OBX|4|ST|EVENT||Hgb: 12.2||||||F|||20131210112429||||
+OBX|5|ST|EVENT||Hct: 37.5||||||F|||20131210112429||||
+OBX|6|ST|EVENT||Bun: 18||||||F|||20131210112429||||
+OBX|7|ST|EVENT||Creatinine: 0.7||||||F|||20131210112429||||
+OBX|8|ST|EVENT||K+: 4.4||||||F|||20131210112429||||
+OBX|9|ST|EVENT||Na+: 139||||||F|||20131210112429||||
+OBX|10|ST|EVENT||Chloride: 101||||||F|||20131210112429||||
+OBX|11|ST|EVENT||PT: 11.1||||||F|||20131210112429||||
+OBX|12|ST|EVENT||PTT: 28.9||||||F|||20131210112429||||
+OBX|13|ST|EVENT||INR: 1.0||||||F|||20131210112429||||
+OBX|14|ST|EVENT||Cholesterol: 239||||||F|||20131210112429||||
+OBX|15|ST|EVENT||Room Ready||||||F|||20131210114257||||
+OBX|16|ST|EVENT||++Patient in Room++||||||F|||20131210114257||||
+OBX|17|ST|EVENT||||||||F|||20131210114301||||
+OBX|18|ST|EVENT||||||||F|||20131210114307||||
+OBX|19|ST|EVENT||||||||F|||20131210114309||||
+OBX|20|ST|EVENT||||||||F|||20131210114310||||
+OBX|21|ST|EVENT||||||||F|||20131210114313||||
+OBX|22|ST|EVENT||Case Event Type:Diagnostic Cath,Physician:Krim,Nassim,R||||||F|||20131210114315||||
+OBX|23|ST|EVENT||Armband Checked \T\ On Patient||||||F|||20131210114319||||
+OBX|24|ST|EVENT||Consent Signed And On Chart||||||F|||20131210114319||||
+OBX|25|ST|EVENT||++Pre Procedure Verification++||||||F|||20131210114319||||
+OBX|26|ST|EVENT||H\T\P On Chart||||||F|||20131210114319||||
+OBX|27|ST|EVENT||Pre Procedure Teaching Performed||||||F|||20131210114319||||
+OBX|28|ST|EVENT||Patient Verbalizes Understanding Of Teaching||||||F|||20131210114319||||
+OBX|29|ST|EVENT||Pre Procedure Pulses||||||F|||20131210114323||||
+OBX|30|ST|EVENT||DP-R: 1+||||||F|||20131210114323||||
+OBX|31|ST|EVENT||DP-L: 1+||||||F|||20131210114323||||
+OBX|32|ST|EVENT||Radial ART-R: 2+||||||F|||20131210114323||||
+OBX|33|ST|EVENT||Radial ART-L: 2+||||||F|||20131210114323||||
+OBX|34|ST|EVENT||Conscious Sedation Assessment||||||F|||20131210114323||||
+OBX|35|ST|EVENT||IV's Infusing: 0.9 NaCL||||||F|||20131210114404||||
+OBX|36|ST|EVENT||IV site: LEFT ARM||||||F|||20131210114404||||
+OBX|37|ST|EVENT||No Known Drug Allergies||||||F|||20131210114407||||
+OBX|38|ST|EVENT||Patient is Pain Free||||||F|||20131210114409||||
+OBX|39|ST|EVENT||SpO2 97%; HR 70 bpm; 163/76/115 NBP; LOC 2; RR 16/min||||||F|||20131210115216||||
+OBX|40|ST|EVENT||Patient Ready||||||F|||20131210115508||||
+OBX|41|ST|EVENT||Patient Prepped \T\ Draped in Usual Manner||||||F|||20131210115509||||
+OBX|42|ST|EVENT||Fellow In Room||||||F|||20131210115517||||
+OBX|43|ST|EVENT||SpO2 97%; HR 70 bpm; 150/65/96 NBP; LOC 2; RR 17/min||||||F|||20131210120140||||
+OBX|44|ST|EVENT||SpO2 96%; HR 68 bpm; 135/53/78 NBP; LOC 2; RR 16/min||||||F|||20131210121151||||
+OBX|45|ST|EVENT||Attending MD in Room||||||F|||20131210121332||||
+OBX|46|ST|EVENT||Time Out Expidited||||||F|||20131210121333||||
+OBX|47|ST|EVENT||Fentanyl IV 25 mcg||||||F|||20131210121558||||
+OBX|48|ST|EVENT||Versed IV 1 mg||||||F|||20131210121612||||
+OBX|49|ST|EVENT||Case Start||||||F|||20131210122026||||
+OBX|50|ST|EVENT||1% Lidocaine Subcut 10 ml||||||F|||20131210122031||||
+OBX|51|ST|EVENT||SpO2 94%; HR 66 bpm; 126/47/67 NBP; LOC 2; RR 10/min||||||F|||20131210122143||||
+OBX|52|ST|EVENT||Versed IV 0.5 mg||||||F|||20131210122250||||
+OBX|53|ST|EVENT||Needle In: RRA||||||F|||20131210122526||||
+OBX|54|ST|EVENT||Sheath Inserted: RRA 5F||||||F|||20131210122526||||
+OBX|55|ST|EVENT||5.0Fr Micropuncture Introducter Set||||||F|||20131210122531||||
+OBX|56|ST|EVENT||6Fr Terumo Glidesheath Slender||||||F|||20131210122548||||
+OBX|57|ST|EVENT||ACT/:||||||F|||20131210122550||||
+OBX|58|ST|EVENT||2,500Heparin/NTG200 IA 1 none||||||F|||20131210122624||||
+OBX|59|ST|EVENT||Fentanyl IV 25 mcg||||||F|||20131210122640||||
+OBX|60|ST|EVENT||Catheter Inserted RRA 5F||||||F|||20131210122902||||
+OBX|61|ST|EVENT||5F Optitorque Radial TIG 4.0||||||F|||20131210122910||||
+OBX|62|ST|EVENT||AO : 75/36/48, HR = 49, II||||||F|||20131210123115||||
+OBX|63|ST|EVENT||Snapshot:  AO : 75/36/48||||||F|||20131210123115||||
+OBX|64|ST|EVENT||SpO2 98%; HR 52 bpm; 67/31/44 NBP; LOC 2; RR 17/min||||||F|||20131210123157||||
+OBX|65|ST|EVENT||Atropine IV 0.5 mg||||||F|||20131210123339||||
+OBX|66|ST|EVENT||LCA Angiogram:||||||F|||20131210123503||||
+OBX|67|ST|EVENT||MULTI-VIEWS TAKEN||||||F|||20131210123503||||
+OBX|68|ST|EVENT||RCA Angiogram:||||||F|||20131210123921||||
+OBX|69|ST|EVENT||MULTI-VIEWS TAKEN||||||F|||20131210123921||||
+OBX|70|ST|EVENT||SpO2 94%; HR 79 bpm; 98/46/61 NBP; LOC 2; RR 16/min||||||F|||20131210124001||||
+OBX|71|ST|EVENT||SpO2 91%; HR 73 bpm; 99/46/62 NBP; LOC 2; RR 19/min||||||F|||20131210124135||||
+OBX|72|ST|EVENT||AO : 103/56/79, HR = 74, II||||||F|||20131210124136||||
+OBX|73|ST|EVENT||Snapshot:  AO : 103/56/79||||||F|||20131210124136||||
+OBX|74|ST|EVENT||Catheter Removed||||||F|||20131210124216||||
+OBX|75|ST|EVENT||Pigtail Catheter Inserted RRA 5F||||||F|||20131210124253||||
+OBX|76|ST|EVENT||5F Expo PIG||||||F|||20131210124303||||
+OBX|77|ST|EVENT||260cm Wire Guide TSCF-35-260-3-BH Curved||||||F|||20131210124315||||
+OBX|78|ST|EVENT||Catheter Removed||||||F|||20131210124346||||
+OBX|79|ST|EVENT||Catheter Inserted RRA 5F||||||F|||20131210124347||||
+OBX|80|ST|EVENT||5F Expo FR4||||||F|||20131210124359||||
+OBX|81|ST|EVENT||Catheter Removed||||||F|||20131210124500||||
+OBX|82|ST|EVENT||Case End||||||F|||20131210124504||||
+OBX|83|ST|EVENT||Catheter Out RRA||||||F|||20131210124526||||
+OBX|84|ST|EVENT||TR Band Used for Hemostasis||||||F|||20131210124534||||
+OBX|85|ST|EVENT||18mL Terumo TR Band Regular||||||F|||20131210124540||||
+OBX|86|ST|EVENT||No Hematoma, No Bleeding Noted||||||F|||20131210124546||||
+OBX|87|ST|EVENT||Post Procedure Teaching Performed||||||F|||20131210124547||||
+OBX|88|ST|EVENT||Patient Verbalizes Understanding of Teaching||||||F|||20131210124547||||
+OBX|89|ST|EVENT||Post Procedure Pulses Unchanged from Procedure||||||F|||20131210124547||||
+OBX|90|ST|EVENT||Patient is Pain Free||||||F|||20131210124547||||
+OBX|91|ST|EVENT||Contrast Type: Non-Ionic||||||F|||20131210124548||||
+OBX|92|ST|EVENT||Contrast Agent: Omnipaque 45cc||||||F|||20131210124548||||
+OBX|93|ST|EVENT||Flouro Time: 4mins||||||F|||20131210124550||||
+OBX|94|ST|EVENT||Report Called To DR: KADAM||||||F|||20131210124552||||
+OBX|95|ST|EVENT||||||||F|||20131210125004||||
+OBX|96|ST|EVENT||Procedure: Art Access - R radial artery||||||F|||20131210125038||||
+OBX|97|ST|EVENT||Procedure: Left Heart Cath No Ventriculogram||||||F|||20131210125040||||
+OBX|98|ST|EVENT||Procedure: Hemostasis with Hemoband||||||F|||20131210125045||||
+OBX|99|ST|EVENT||ACIST Automated Manifold Kit||||||F|||20131210125049||||
+OBX|100|ST|EVENT||ACIST Angiotouch Kit||||||F|||20131210125050||||
+OBX|101|ST|EVENT||ACIST  Multi-Use Syringe Kit||||||F|||20131210125052||||
+OBX|102|ST|EVENT||Heart Cath Tray-LF||||||F|||20131210125053||||
+OBX|103|ST|EVENT||||||||F|||20131210125058||||
+OBX|104|ST|EVENT||SpO2 96%; HR 68 bpm; 123/52/69 NBP; LOC 2; RR 17/min||||||F|||20131210125133||||
+OBX|105|ST|EVENT||Patient Out of Lab||||||F|||20131210130112||||
+OBR|4||462e6732-cb5a-4c32-93b2-eb914e8a78c6|^Conscious Sedation^-1^^^|||20131210112316|20131210124504||||||||||001LPPLBL||||||CTH|F|||||||^^^^||||||||||||||
+OBX|1|ST|CS-ACT-PRE||2 - Able to move 4 extremities voluntarily or on command||||||F|||20131210112316||||
+OBX|2|ST|CS-ACT-POST||2 - Able to move 4 extremities voluntarily or on command||||||F|||20131210112316||||
+OBX|3|ST|CS-RESP-PRE||2 - Able to breathe deeply and cough freely||||||F|||20131210112316||||
+OBX|4|ST|CS-RESP-POST||2 - Able to breathe deeply and cough freely||||||F|||20131210112316||||
+OBX|5|ST|CS-CIRC-PRE||2 - BP +/- 20% of pre-anesthetic level||||||F|||20131210112316||||
+OBX|6|ST|CS-CIRC-POST||2 - BP +/- 20% of pre-anesthetic level||||||F|||20131210112316||||
+OBX|7|ST|CS-CONS-PRE||2 - Fully Awake||||||F|||20131210112316||||
+OBX|8|ST|CS-CONS-POST||2 - Fully Awake||||||F|||20131210112316||||
+OBX|9|ST|CS-O2SAT-PRE||2 - Able to maintain O2 saturation greater than 92% on room air||||||F|||20131210112316||||
+OBX|10|ST|CS-O2SAT-POST||2 - Able to maintain O2 saturation greater than 92% on room air||||||F|||20131210112316||||
+OBX|11|ST|CS-SCORE-PRE||10||||||F|||20131210112316||||
+OBX|12|ST|CS-SCORE-POST||10||||||F|||20131210112316||||
+OBX|13|ST|CS-COMMENT-PRE||ALERT AND ORIENTED X3.SKIN WARM AND DRY TO TOUCH.||||||F|||20131210112316||||
+OBX|14|ST|CS-COMMENT-POST||ALERT AND ORIENTED X3.SKIN WARM AND DRY TO TOUCH.||||||F|||20131210112316||||
+OBR|5||462e6732-cb5a-4c32-93b2-eb914e8a78c6|^XRay Summary^-1^^^|||20131210112316|20131210124504||||||||||001LPPLBL||||||CTH|F|||||||^^^^||||||||||||||
+OBX|1|ST|XRAY-FLTIME||4.00|min|||||F|||20131210112316||||
+OBX|2|ST|XRAY-FLDOSE||564.00|cGycm2|||||F|||20131210112316||||
+OBX|3|ST|XRAY-CINEDOSE||1925.70|cGycm2|||||F|||20131210112316||||
+OBX|4|ST|XRAY-TOTDOSE||2489.70|cGycm2|||||F|||20131210112316||||
+OBX|5|ST|XRAY-CINEFRAME|| ||||||F|||20131210112316||||
+OBX|6|ST|XRAY-INTFLTIME|| ||||||F|||20131210112316||||
+OBX|7|ST|XRAY-DIAGFLTIME||4.00||||||F|||20131210112316||||
+OBX|8|ST|XRAY-TOTALRUNS||7||||||F|||20131210112316||||
+OBX|9|ST|XRAY-CDID||15240||||||F|||20131210112316||||
+OBX|10|ST|XRAY-CINEID||||||||F|||20131210112316||||
+OBX|11|ST|XRAY-ARCHIVEID||||||||F|||20131210112316||||
+OBR|6||462e6732-cb5a-4c32-93b2-eb914e8a78c6|^DICOM^-1^^^|||20131210112316|20131210124504||||||||||001LPPLBL||||||CTH|F|||||||^^^^||||||||||||||
+OBX|1|ST|Event_DICOM_Study||2.16.376.1.1.511752891.1621.345050382426.1386704310.940583||||||F|||20131210112316||||
+OBX|2|ST|Event_DICOM_RunInfo||1^123435^91^15.00^1^73.40^460^3^6^-7^-26^113^16^||||||F|||20131210112316||||
+OBX|3|ST|Event_DICOM_RunInfo||2^123508^88^15.00^1^76.20^601^4^6^-19^26^115^16^||||||F|||20131210112316||||
+OBX|4|ST|Event_DICOM_RunInfo||3^123538^99^15.00^1^87.00^603^4^6^30^29^115^16^||||||F|||20131210112316||||
+OBX|5|ST|Event_DICOM_RunInfo||4^123612^108^15.00^1^85.40^628^4^6^31^-21^115^16^||||||F|||20131210112316||||
+OBX|6|ST|Event_DICOM_RunInfo||5^123652^86^15.00^1^77.20^560^3^6^-21^24^116^16^||||||F|||20131210112316||||
+OBX|7|ST|Event_DICOM_RunInfo||6^124008^101^15.00^1^87.00^580^3^6^26^19^114^16^||||||F|||20131210112316||||
+OBX|8|ST|Event_DICOM_RunInfo||7^124043^78^15.00^1^83.70^640^4^6^-28^27^115^16^||||||F|||20131210112316||||
+OBR|7||462e6732-cb5a-4c32-93b2-eb914e8a78c6|^Reports^-1^^^|||20131210112316|20131210124504||||||||||001LPPLBL||||||CTH|F|||||||^^^^||||||||||||||
+OBX|1|ST|REPORTS||462e6732-cb5a-4c32-93b2-eb914e8a78c641618.5360648148_10566096297418475.doc^BL LHC Report^20131210125157||||||F|||20131210112316||||
+OBR|8||462e6732-cb5a-4c32-93b2-eb914e8a78c6|^Custom_Fields^-1^^^|||20131210112316|20131210124504||||||||||001LPPLBL||Custom Forms^079a638e-edff-4daa-ab85-34250bf60adc^0.0000^||||CTH|F|||||||^^^^||||||||||||||
+OBR|9||462e6732-cb5a-4c32-93b2-eb914e8a78c6|^Registry_Fields^-1^^^|||20131210112316|20131210124504||||||||||001LPPLBL||Forms^7c83ba65-249c-4953-938a-98b9ff73f12e^2.0003^||||CTH|F|||||||^^^^||||||||||||||
+ORC|RE||462e6732-cb5a-4c32-93b2-eb914e8a78c6_1||||^^^20131210112316^20131210114315||20131210112316|||||||none||||
+OBR|10||462e6732-cb5a-4c32-93b2-eb914e8a78c6_1|0^Baseline^0^^^|||20131210112316|20131210124504||||||||||001LPPLBL||||||CTH|F|||||||^^^^||||||||||||||
+OBX|1|ST|Event_Personnel||345678^Krim^Nassim^R^MD^Interpreting Physican^20131210114301^^115^1||||||F|||20131210114301||||
+OBX|2|ST|Event_Personnel||123409^Loganathan^Jayanthi^^MD^Fellow^20131210114307^^123^2||||||F|||20131210114307||||
+OBX|3|ST|Event_Personnel||100015^Syananondh^Sunune^^RN^Nurse^20131210114309^^13^3||||||F|||20131210114309||||
+OBX|4|ST|Event_Personnel||100043^Rodriguez^Lourdes^^RN^Nurse^20131210114310^^67^4||||||F|||20131210114310||||
+OBX|5|ST|Event_Personnel||0047^Asuncion^Rudy^^Technologist^X-Ray Tech^20131210114313^^84^5||||||F|||20131210114313||||
+ORC|RE||462e6732-cb5a-4c32-93b2-eb914e8a78c6_2||||^^^20131210114315^20131210130112||20131210114315|||1^Krim^Nassim^R^^^^115||||Diagnostic Cath||||
+OBR|11||462e6732-cb5a-4c32-93b2-eb914e8a78c6_2|0^Baseline^0^^^|||20131210112316|20131210124504||||||||||001LPPLBL||||||CTH|F|||||||345678^Krim^Nassim^R^MD||||||||||||||
+OBX|1|ST|Event_Vitals||0^97^70^163.00^76.00^115.00^16.00^breaths/min^^^2^^^^1231^mmHg^mmHg||||||F|||20131210115216||||
+OBX|2|ST|Event_Vitals||0^97^70^150.00^65.00^96.00^17.00^breaths/min^^^2^^^^4096^mmHg^mmHg||||||F|||20131210120140||||
+OBX|3|ST|Event_Vitals||0^96^68^135.00^53.00^78.00^16.00^breaths/min^^^2^^^^6976^mmHg^mmHg||||||F|||20131210121151||||
+OBX|4|ST|Event_Medication||Fentanyl^25^IV^^Opioid^^2484^8641^115^1^67^4|mcg|||||F|||20131210121558||||
+OBX|5|ST|Event_Medication||Versed^1^IV^^Sedative^^2542^10800^115^1^67^4|mg|||||F|||20131210121612||||
+OBX|6|ST|Event_Medication||1% Lidocaine^10^Subcut^^Local Anesthetic^^2373^17760^115^1^123^2|ml|||||F|||20131210122031||||
+OBX|7|ST|Event_Vitals||0^94^66^126.00^47.00^67.00^10.00^breaths/min^^^2^^^^35040^mmHg^mmHg||||||F|||20131210122143||||
+OBX|8|ST|Event_Medication||Versed^0.5^IV^^Sedative^^2542^51120^115^1^67^4|mg|||||F|||20131210122250||||
+OBX|9|ST|Event_Inventory||Micropuncture Introducter Set^G36333^5.0Fr^^^^010082700236333517160800104447124^Sheath^89760^Not Yet Assigned^1861||||||F|||20131210122531||||
+OBX|10|ST|Event_Inventory||Terumo Glidesheath Slender^RM*ES6F10HAU^6Fr^^^^0104987350717986^Sheath^93824^^3193||||||F|||20131210122548||||
+OBX|11|ST|Event_Medication||2,500Heparin/NTG200^1^IA^^Other^^2980^102480^115^1^115^1|none|||||F|||20131210122624||||
+OBX|12|ST|Event_Medication||Fentanyl^25^IV^^Opioid^^2484^106320^115^1^67^4|mcg|||||F|||20131210122640||||
+OBX|13|ST|Event_Inventory||Optitorque Radial TIG 4.0^RH*5TIG110A^5F^^^^0134987350700026^Catheter^142320^Not Yet Assigned^2234||||||F|||20131210122910||||
+OBX|14|ST|Event_CathPressure||AO^0^ARTERIAL_TYPE^75^36^0^^48^^^49^0||||||F|||20131210123115||||
+OBX|15|ST|Event_Vitals||0^98^52^67.00^31.00^44.00^17.00^breaths/min^^^2^^^^180264^mmHg^mmHg||||||F|||20131210123157||||
+OBX|16|ST|Event_Medication||Atropine^0.5^IV^^Anticholinergic^^2400^182640^115^1^13^3|mg|||||F|||20131210123339||||
+OBX|17|ST|Event_Vitals||0^94^79^98.00^46.00^61.00^16.00^breaths/min^^^2^^^^187072^mmHg^mmHg||||||F|||20131210124001||||
+OBX|18|ST|Event_Vitals||0^91^73^99.00^46.00^62.00^19.00^breaths/min^^^2^^^^189952^mmHg^mmHg||||||F|||20131210124135||||
+OBX|19|ST|Event_CathPressure||AO^0^ARTERIAL_TYPE^103^56^0^^79^^^74^0||||||F|||20131210124136||||
+OBX|20|ST|Event_Inventory||Expo PIG^0852640^5F^^^^+H74908526402J^Catheter^191520^Not Yet Assigned^2744||||||F|||20131210124303||||
+OBX|21|ST|Event_Inventory||Wire Guide TSCF-35-260-3-BH Curved^G00518^260cm^^^^010082700200518117150800102558893^Wire^191521^Not Yet Assigned^1905||||||F|||20131210124315||||
+OBX|22|ST|Event_Inventory||Expo FR4^0852602^5F^^^^+H74908526022H^Catheter^191522^Not Yet Assigned^2475||||||F|||20131210124359||||
+OBX|23|ST|Event_Inventory||Terumo TR Band Regular^XX*RF06^18mL^^^^0134987350766817^Hemostasis Devices^199680^Not Yet Assigned^2376||||||F|||20131210124540||||
+OBX|24|ST|Event_Contrast||Omnipaque 350^45^52^199681|ml|||||F|||20131210125004||||
+OBX|25|ST|Event_Procedure||Art Access - R radial artery^^^^^5823^199682||||||F|||20131210125038||||
+OBX|26|ST|Event_Procedure||Left Heart Cath No Ventriculogram^^^^^5745^199683||||||F|||20131210125040||||
+OBX|27|ST|Event_Procedure||Hemostasis with Hemoband^^^^^5860^199684||||||F|||20131210125045||||
+OBX|28|ST|Event_Inventory||ACIST Automated Manifold Kit^Model BT2000^^^^^01303027001461343001^PCI / IABP/ Acist^199685^Not Yet Assigned^1641||||||F|||20131210125049||||
+OBX|29|ST|Event_Inventory||ACIST Angiotouch Kit^Model AT P54^^^^^01303027001464483001^PCI / IABP/ Acist^199686^Not Yet Assigned^1642||||||F|||20131210125050||||
+OBX|30|ST|Event_Inventory||ACIST  Multi-Use Syringe Kit^2280901000228M7^^^^^01303027001461273001^PCI / IABP/ Acist^199687^Not Yet Assigned^1643||||||F|||20131210125052||||
+OBX|31|ST|Event_Inventory||Heart Cath Tray-LF^DYNJ08943C^^^^^0110080196922321^PCI / IABP/ Acist^199688^Not Yet Assigned^1911||||||F|||20131210125053||||
+OBX|32|ST|Event_Complication||No complications^6642^199689||||||F|||20131210125058||||
+OBX|33|ST|Event_Vitals||0^96^68^123.00^52.00^69.00^17.00^breaths/min^^^2^^^^200960^mmHg^mmHg||||||F|||20131210125133||||
+OBX|34|ST|HemoMeas_General||BSA^0^Calculated^1.61|m²|||||F|||20131210112331||||
+OBX|35|ST|HemoMeas_Pressure||AO^0^Measured^103.00^mmHg^56.00^mmHg^79.00^mmHg^74^beats/min||||||F|||20131210112331||||
+OBX|36|ST|HemoMeas_General||HEIGHT_CM^0^Manual Entry^150.00|cm|||||F|||20131210112331||||
+OBX|37|ST|HemoMeas_General||WEIGHT_KG^0^Manual Entry^65.80|kg|||||F|||20131210112331||||
+OBX|38|ST|HemoMeas_General||GENDER^0^Manual Entry^1.00||||||F|||20131210112331||||
+OBX|39|ST|HemoMeas_General||AGE^0^Manual Entry^71.34|years|||||F|||20131210112331||||
