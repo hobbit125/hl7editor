@@ -2,6 +2,8 @@
     "name" : "simple-text-editor",
     "main" : "./html/index.html",
     "window": {
-        "toolbar": true
+        "toolbar": false,
+        "width": 1200,
+        "height": 800
     }
 }

@@ -2,28 +2,51 @@
 <html>
 <head>
     <title>HL7 Viewer</title>
-    <link rel="stylesheet" href="../css/main.css" />
+    
+    <link rel="stylesheet" href="../css/bootstrap.min.css" />
     <link rel="stylesheet" href="../codemirror/lib/codemirror.css" />
     <link rel="stylesheet" href="../codemirror/theme/midnight.css" />
+    <link rel="stylesheet" href="../css/main.css" />
+
+    <script type="text/javascript" src="../js/hl7.js"></script>
+    <script type="text/javascript" src="../js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="../js/knockout-3.0.0.js"></script>
+    <script type="text/javascript" src="../js/moment.min.js"></script>
+    <script type="text/javascript" src="../js/toastr.min.js"></script>
+    <script type="text/javascript" src="../js/underscore-min.js"></script>
+    <script type="text/javascript" src="../js/bootstrap.min.js"></script>
+
     <script type="text/javascript" src="../codemirror/lib/codemirror.js"></script>
     <script type="text/javascript" src="../js/hl7mode.js"></script>
     <script type="text/javascript" src="../js/main.js"></script>
 </head>
 <body>
-    <input id="open" type="file" style="display:none" accept="text/*"/>
-    <input id="save" type="file" nwsaveas style="display:none" accept="text/*"/>
+    <input id="open" type="file" style="display:none" accept=".hl7"/>
+    <input id="save" type="file" nwsaveas style="display:none" accept=".hl7"/>
+    <div id="editorContainer" style="position:fixed;top:0;bottom:0;left:0;right:33%; background-color: black"></div>
 
-    <table>
-        <tr>
-            <td style="width: 50%">
-                <div id="editorContainer" style="position:fixed;top:0;bottom:0;left:0;right:0; background-color: black"></div>
-            </td>
-            <td style="width: 50%">
-                <div style="background-color: black;">
-                </div>
-            </td>
-        </tr>
-    </table>
+    <div id="sidePanel" style="position:fixed;top:0;bottom:0;left:66%;right:0; background-image: url('../img/zwartevilt.png'); color: white; padding: 10px; overflow: auto">
+        <!-- ko with:currentSegment -->
+        <h1 data-bind="text: name"></h1>
+
+        <table class="table table-bordered table-condensed">
+            <tbody data-bind="foreach: fields">
+                <tr>
+                    <td style="width:5px" data-bind="text: idx" />
+                    <td>
+                        <!-- ko if: components.length == 0 -->
+                        <span data-bind="text: text" style="color:steelblue"></span>
+                        <!-- /ko -->
+
+                        <ol data-bind="foreach: components" style="color:steelblue">
+                            <li data-bind="text: $data"></li>
+                        </ol>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <!-- /ko -->
+    </div>
 
 </body>
 
